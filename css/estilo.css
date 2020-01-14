@@ -1,0 +1,45 @@
+body {
+
+background-color: hsl(35, 100%, 90%);
+
+}
+
+h1 {
+
+text-transform: uppercase;
+color: rgb(218, 131, 73);
+
+}
+
+h2 {
+
+color: orange;
+    
+}
+
+.rosa {
+
+background-color: rgb(206, 135, 203);
+
+}
+
+.blanco {
+
+background-color: white;
+    
+    
+}
+
+.iconos {
+
+font-size: 60px;
+
+}
+
+p {
+
+font-size: 200%;
+font-family: sans-serif;
+
+
+}
